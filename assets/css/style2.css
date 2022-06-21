@@ -1,0 +1,22 @@
+@font-face {
+    font-family: fontGizmo;
+    src: url(FontsFree-Net-Gilroy-Light.ttf);
+}
+
+
+
+.flexer {
+    display: flex;
+    align-items: center
+}
+
+#navfont {
+    font-family: fontGizmo;
+    color: white;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+#navv {
+    max-width: 20%;
+}
